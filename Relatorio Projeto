@@ -1,0 +1,13 @@
+# Projeto_Integrador-
+
+Relatório sobre Sistema de Monitoramento de Qualidade do Ar com Alertas via IoT
+
+A ideia do projeto é desenvolver e implementar um sistema de monitoramento da qualidade do ar, com recursos de alerta com IOT. O principal objetivo do sistema é fornecer informações em tempo real sobre a qualidade do ar em uma área específica. Este sistema é essencial para proteger a saúde pública porque permite que as pessoas consigam tomar medidas imediatas.
+
+O sistema de alerta compara continuamente os dados em tempo real com os limites de qualidade do ar. Os utilizadores podem tomar decisões informadas, como evitar áreas com elevados níveis de poluição atmosférica ou tomar medidas para proteger a sua saúde. A combinação de sensores (MQ2 e DHTT22), IoT e sistemas de alerta eficazes fornece uma plataforma perfeita para monitorar e responder a eventos de má qualidade do ar em tempo real.
+
+ADERÊNCIA A DISCIPLINA
+
+Programação Orientada a Objetos:Implementaremos a POO para criar classes que representam cada componente do sistema, cada sensor é modelado com um objeto, com métodos específicos e individuais. É possível também fazer o encapsulamento dos dados em classes, fazendo o sistema ser mais modular. Além de módulo de comunicação e plataforma de nuvem. Isso facilita a reutilização de código e a manutenção à medida que o projeto cresce. Dessa forma, a POO oferece uma maneira estruturada de modelar os sensores e suas funcionalidades, deixando o código mais organizado, e com fácil manutenção.
+
+
